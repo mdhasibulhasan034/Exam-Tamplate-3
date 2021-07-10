@@ -790,6 +790,9 @@ a{
 	margin-bottom: 75px;
 	border-radius: 24px;
 }
+.rating h2{
+    color: #fff;
+}
 
 /* Testimonial Section */
 
